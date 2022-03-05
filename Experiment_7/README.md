@@ -1,6 +1,7 @@
 # Experiment_7
 Impelementation of Stack using linked list....
-
+***
+```
 Choose the operation to be peformed:(1.Push/2.Pop/3.Display)
 2
 Stack is empty
@@ -39,4 +40,5 @@ Choose the operation to be peformed:(1.Push/2.Pop/3.Display)
 Values in stack are:
 5
 Do you want to continue?(1 for Yes/0 for No)
+```
 ***
