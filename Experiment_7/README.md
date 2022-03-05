@@ -1,5 +1,5 @@
 # Experiment_7
-Impelementation of Stack using linked list.... `#c5f015`
+Impelementation of Stack using linked list.... 
 
 ***
 ```
