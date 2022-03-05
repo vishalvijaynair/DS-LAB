@@ -1,5 +1,5 @@
 # Experiment_7
-- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
+Impelementation of Stack using linked list.... `#c5f015`
 
 ***
 ```
