@@ -1,5 +1,5 @@
 # Experiment_7
-<span style="color: green"> Impelementation of Stack using linked list.... </span>
+<font color="green"> Impelementation of Stack using linked list.... </font>
 
 ***
 ```
