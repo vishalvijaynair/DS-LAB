@@ -1,6 +1,6 @@
 # Experiment_7
-<span style="color: green"> Some green text </span>
-Impelementation of Stack using linked list....
+<span style="color: green"> Impelementation of Stack using linked list.... </span>
+
 ***
 ```
 Choose the operation to be peformed:(1.Push/2.Pop/3.Display)
