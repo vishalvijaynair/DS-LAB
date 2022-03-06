@@ -1,7 +1,7 @@
 # Experiment_10
 Implementation of queue using array and linked list.....
-***
 # Output
+***
 ```
 1.insertrear    
 2.deleterear    
