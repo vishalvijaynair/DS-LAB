@@ -1,6 +1,6 @@
-# Experiment_14
-Heap sort..
-# Output
+# Experiment_14 Heap sort..
+
+Output
 ```
 Enter the number of elements : 4
 
